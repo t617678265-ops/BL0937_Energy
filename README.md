@@ -17,7 +17,6 @@
 
 ```ini
 lib_deps =
-    blynkkk/Blynk @ ^0.6.7
     https://github.com/t617678265-ops/BL0937_Energy.git
 ```
 При первой компиляции среда VS Code сама автоматически скачает модуль из интернета [INDEX].
