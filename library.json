@@ -1,0 +1,14 @@
+{
+    "name": "BL0937_Energy",
+    "version": "1.0.0",
+    "description": "Non-blocking BL0937 energy monitor library for LibreTiny framework (LN882HK)",
+    "keywords": "bl0937, energy, power, libretiny, ln882hk",
+    "authors": [
+        {
+            "name": "Aleksandr",
+            "maintainer": true
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "libretiny"
+}
